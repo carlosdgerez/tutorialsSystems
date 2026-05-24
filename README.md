@@ -12,9 +12,7 @@ The labs are delivered through detailed PowerPoint and PDF guides that walk thro
 
 ## Network Architecture
 
-<p align="center">
-  <img src="images/tutorial.png" width="900">
-</p>
+![diagram](images/tutorial.png)
 
 ---
 
